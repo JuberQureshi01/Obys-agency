@@ -32,6 +32,7 @@ body {
     height: 100%;
     width: 100%;
 overflow-x: hidden;
+background-color: #151515;
 }
 .mousefollower{
     border: 2px solid #fff;
@@ -729,7 +730,7 @@ opacity: 0;
     min-height: 100vh;
     min-width: 100%;
     padding: 0 3vw;
-    margin-bottom: 15vh;
+    margin-bottom: 0vh;
 }
 
 #page3-content{
@@ -846,5 +847,16 @@ opacity: 0;
     margin-left: 25%;
     font-size: 3vw;
 }
-
+#page4{
+    min-height: 69vh;
+}
+#page5 {
+    min-height: 26vh;
+}
+#page6{
+    height: 31vh;
+}
+#footer{
+    height: 30vh;
+}
 }
