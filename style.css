@@ -598,17 +598,7 @@ opacity: 0;
  z-index: 999999 !important;
  pointer-events: none;
 }
-
-
-
-
 @media (max-width:600px) {
-    #loader *{
-       scale: 1.1;
-       position: relative;
-       left: 5%;
-       top: 20%;
-    }
     #page1{
         height: 48vh;
         width: 100%;
